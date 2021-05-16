@@ -1,0 +1,16 @@
+<resources>
+    <string name="covid_update_status_updating">Mise à jour...</string>
+    <string name="covid_update_status_updated">Les données ont été mises à jour le</string>
+    <string name="covid_cases_title">Nombre de cas aujourd\'hui</string>
+    <string name="covid_deaths_title">Nombre de morts aujourd\'hui</string>
+    <string name="covid_total_cases_title">Nombre de cas total</string>
+    <string name="covid_critical_cases_title">Cas critiques</string>
+    <string name="covid_no_data">Pas de données</string>
+    <string name="covid_data_unavailable">Les données COVID-19 sont indisponibles</string>
+    <string name="covid_data_available">Données COVID-19 en</string>
+    <string name="sleep_title">Notifications de sommeil</string>
+    <string name="sleep_summary">Activez les notifications avec des conseils lorsque le téléphone interfère avec votre sommeil</string>
+    <string name="screen_on_title">Screen on notification</string>
+    <string name="screen_on_summary">Activez les notifications qui vous avertiront lorsque votre écran est allumé en continu pendant une heure</string>
+    <string name="health_options">Options de santé</string>
+</resources>
